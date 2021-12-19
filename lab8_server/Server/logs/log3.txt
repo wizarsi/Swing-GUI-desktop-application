@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-07-04T18:20:49</date>
+  <millis>1625412049803</millis>
+  <sequence>28</sequence>
+  <logger>Application.ServerConsole</logger>
+  <level>INFO</level>
+  <class>Application.ServerConsole</class>
+  <method>runConsole</method>
+  <thread>13</thread>
+  <message>Вы завершили работу сервера.</message>
+</record>
+</log>
